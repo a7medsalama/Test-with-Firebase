@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "681037420747",
+    "project_id": "myfireauth-9ce37",
+    "storage_bucket": "myfireauth-9ce37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681037420747:android:59fd448b731c66ead7234e",
+        "android_client_info": {
+          "package_name": "com.example.shoppingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfFhrhUoQQFMlly7cJ1P2q2Q6w-mgUIgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681037420747:android:a80656ce478974a5d7234e",
+        "android_client_info": {
+          "package_name": "com.example.signinsignup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfFhrhUoQQFMlly7cJ1P2q2Q6w-mgUIgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
